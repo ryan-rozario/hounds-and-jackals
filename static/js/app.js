@@ -1,9 +1,11 @@
 var canvas = document.getElementById("myCanvas");
 var context = canvas.getContext("2d");
 
+//import { places } from "./blocks";
+
 context.beginPath()
-context.arc(260, 385, 15, 0, 2 * Math.PI, false)
-context.fillStyle = "#F03C69"
+context.arc(650, 310, 15, 0, 2 * Math.PI, false)
+context.fillStyle = "red"
 context.fill()
 
 /*
