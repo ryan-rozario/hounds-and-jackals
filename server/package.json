@@ -1,0 +1,26 @@
+{
+  "name": "hounds-and-jackals",
+  "version": "1.0.0",
+  "description": "Ancient Egyptian Board Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-rozario/hounds-and-jackals.git"
+  },
+  "keywords": [
+    "board",
+    "game"
+  ],
+  "author": "Ryan Rozario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryan-rozario/hounds-and-jackals/issues"
+  },
+  "homepage": "https://github.com/ryan-rozario/hounds-and-jackals#readme",
+  "dependencies": {
+    "socket.io": "^3.0.4"
+  }
+}
